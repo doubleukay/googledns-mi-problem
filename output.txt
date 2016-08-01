@@ -1,0 +1,456 @@
+Client: 2602:30a:2c71:7450:a2f3:c1ff:fec4:4a80
+Answer:
+<DNS Header: id=0x2494 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:5014:702:0:a2f3:c1ff:fec4:48fe
+Answer:
+<DNS Header: id=0x843c type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2003:6:1125:3621:a2f3:c1ff:fe9c:a1f9
+Answer:
+<DNS Header: id=0xb0f2 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:708:310:6080:fa1a:67ff:fe4d:6d45
+Answer:
+<DNS Header: id=0x568c type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:e34:eee7:a3d0:fa1a:67ff:fe4d:7cb6
+Answer:
+<DNS Header: id=0x75a9 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a00:c7c0:0:1260::194
+Answer:
+<DNS Header: id=0xb0c6 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:2168:1279:8000:fa1a:67ff:fe4d:7c7d
+Answer:
+<DNS Header: id=0xfca5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2801:1a0:5:70:a2f3:c1ff:fec4:3b52
+Answer:
+<DNS Header: id=0xd56f type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2607:fa10:1:4:fa1a:67ff:fe4d:6fcf
+Answer:
+<DNS Header: id=0x69ca type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:a00::fffd:0:0:126
+Answer:
+<DNS Header: id=0xdae4 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2601:8c1:c000:4734:fa1a:67ff:fe4d:665f
+Answer:
+<DNS Header: id=0x5641 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2403:bd80:c002:1020:a2f3:c1ff:fec4:4747
+Answer:
+<DNS Header: id=0xfca5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:cb00:8cc:c700:6666:b3ff:feb0:cdce
+Answer:
+<DNS Header: id=0x42b7 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2601:603:b01:cd42:6666:b3ff:feb0:b4c0
+Answer:
+<DNS Header: id=0xfca5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:238:4252:f01::10
+Answer:
+<DNS Header: id=0x2384 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:638:80a:2:6666:b3ff:feb0:e194
+Answer:
+<DNS Header: id=0x5641 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:8b0:caee:1:ffff:ffff:ffff:fffe
+Answer:
+<DNS Header: id=0xe535 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:8084:d02:4a00:6666:b3ff:feb0:cce0
+Answer:
+<DNS Header: id=0xb0f2 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:1810:8522:bb00:6666:b3ff:feb0:ed70
+Answer:
+<DNS Header: id=0x5641 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2003:8e:6c3f:c310:6666:b3ff:fec5:11a2
+Answer:
+<DNS Header: id=0x95d5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:1620:f00:82f4:6666:b3ff:feb0:e08c
+Answer:
+<DNS Header: id=0x5102 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:190:1603::12
+Answer:
+<DNS Header: id=0xb0f2 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:67c:670:203:6666:b3ff:fec5:e56
+Answer:
+<DNS Header: id=0x42b7 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:cb14:83b:8f00:6666:b3ff:fed1:226e
+Answer:
+<DNS Header: id=0x5641 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:2788:d8:ba0:6666:b3ff:fed1:2f96
+Answer:
+<DNS Header: id=0xaea6 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:b460:1:1:6666:b3ff:fec4:fdbc
+Answer:
+<DNS Header: id=0x8901 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:23a0:1111:7:6666:b3ff:fec5:182
+Answer:
+<DNS Header: id=0x5102 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:14e8:0:405:6666:b3ff:fec5:eae
+Answer:
+<DNS Header: id=0x5641 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:2450:d90f:5:6666:b3ff:fed1:2f5c
+Answer:
+<DNS Header: id=0x1f49 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:648:2e01:e:6666:b3ff:fed1:1612
+Answer:
+<DNS Header: id=0x98e1 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:b08f:2:6666:b3ff:fec5:72e
+Answer:
+<DNS Header: id=0x9042 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:a03f:74:a500:6666:b3ff:fec5:766
+Answer:
+<DNS Header: id=0xbf32 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a00:e80:0:105:ffff::6
+Answer:
+<DNS Header: id=0xf6d9 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2002:d5d1:5797:0:c24a:ff:fecc:99fa
+Answer:
+<DNS Header: id=0x42b7 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2604:5500:29:5ff:c24a:ff:fecc:6a86
+Answer:
+<DNS Header: id=0xaf9e type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2003:5f:2b46:ba00:ea94:f6ff:fe48:6ba4
+Answer:
+<DNS Header: id=0x8806 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:be0:18:0:c24a:ff:fecc:9d12
+Answer:
+<DNS Header: id=0xc3dc type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:6a8:2d80:2230:ea94:f6ff:fe48:48a4
+Answer:
+<DNS Header: id=0x5d72 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2600:8800:2700:d34:ea94:f6ff:feba:e4f2
+Answer:
+<DNS Header: id=0xb0f2 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2620:dd:0:5:ea94:f6ff:fe48:7748
+Answer:
+<DNS Header: id=0xe3dc type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2601:14b:c205:a380:c24a:ff:fe09:5108
+Answer:
+<DNS Header: id=0x95d5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2607:4000:200:13:ea94:f6ff:feba:fb36
+Answer:
+<DNS Header: id=0x768c type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a05:3e00:c:8:ea94:f6ff:fe48:beb4
+Answer:
+<DNS Header: id=0x5063 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:908:eb43:9000:c24a:ff:fecc:6478
+Answer:
+<DNS Header: id=0x1c18 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:a03f:309e:9700:ea94:f6ff:fe48:c356
+Answer:
+<DNS Header: id=0x5102 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:4e0:1000:10:eade:27ff:fe69:cdac
+Answer:
+<DNS Header: id=0x3dd type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a05:3780:8000:308::109
+Answer:
+<DNS Header: id=0xcd23 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a05:f6c7:748:0:eade:27ff:fe69:dd4e
+Answer:
+<DNS Header: id=0xd3c2 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a02:a03f:3435:a280:eade:27ff:fe64:7700
+Answer:
+<DNS Header: id=0x7648 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a01:348:6:8673:c24a:ff:fe9f:f588
+Answer:
+<DNS Header: id=0x330a type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2400:4030:9ecc:9668:eade:27ff:fe69:c926
+Answer:
+<DNS Header: id=0x282a type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a00:72a0:0:1::ced:db8
+Answer:
+<DNS Header: id=0x1a74 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:8a8:ae00:2:eade:27ff:fe69:cdb8
+Answer:
+<DNS Header: id=0x55ac type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:c832:42:0:255:255:253
+Answer:
+<DNS Header: id=0x2384 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:67c:1220:9894:ea94:f6ff:fe48:c3e2
+Answer:
+<DNS Header: id=0xebe9 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a05:aec0:4:2::2
+Answer:
+<DNS Header: id=0x75a9 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a03:f980:a:f01:c66e:1fff:fe3a:df00
+Answer:
+<DNS Header: id=0x6de3 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:4c50:62e:95fe:c66e:1fff:fe3a:de68
+Answer:
+<DNS Header: id=0x5102 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a06:6c0:0:fffe:eade:27ff:fec9:648e
+Answer:
+<DNS Header: id=0xd40 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2601:647:4480:4a58:eade:27ff:fec9:5b26
+Answer:
+<DNS Header: id=0xb2b9 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2605:a601:29e:1f00:c66e:1fff:fe5b:e58e
+Answer:
+<DNS Header: id=0x19ee type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2600:c02:b020:6:16cc:20ff:fef8:917a
+Answer:
+<DNS Header: id=0x9667 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:5:88f:eade:27ff:fec9:7df0
+Answer:
+<DNS Header: id=0x28e7 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:984:29d6:10:c66e:1fff:fe5b:d06c
+Answer:
+<DNS Header: id=0xfca5 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:28:aaf:eade:27ff:fec9:7b44
+Answer:
+<DNS Header: id=0x7648 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:1bc8:101:1c:c66e:1fff:fe5b:e2e4
+Answer:
+<DNS Header: id=0xa491 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 240f:6b:9a24:1:eade:27ff:fec9:9ed0
+Answer:
+<DNS Header: id=0x51db type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2a00:16d8:0:39:c66e:1fff:fe3a:e1f6
+Answer:
+<DNS Header: id=0x4bad type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:12ff:0:10:f6f2:6dff:fe5d:c662
+Answer:
+<DNS Header: id=0x90b1 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:14b8:1e9:0:f6f2:6dff:fe5d:9414
+Answer:
+<DNS Header: id=0xaa7c type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:6f8:14f3:0:f6f2:6dff:fe5d:c534
+Answer:
+<DNS Header: id=0xbf32 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:980:906c:1:f6f2:6dff:fe5d:c5ce
+Answer:
+<DNS Header: id=0x7648 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:7848:0:f6f2:6dff:fe5d:c758
+Answer:
+<DNS Header: id=0xbb41 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2401:fc00:3:e:1d1e:f001:0:1
+Answer:
+<DNS Header: id=0x1421 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:838:a043:dc00:f6f2:6dff:fe5d:c64c
+Answer:
+<DNS Header: id=0x5614 type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
+Client: 2001:470:1f15:eea:f6f2:6dff:fe5d:a028
+Answer:
+<DNS Header: id=0xaa7c type=RESPONSE opcode=QUERY flags=RD,RA rcode='NOERROR' q=1 a=1 ns=0 ar=0>
+<DNS Question: 'www.mi.com.' qtype=ANY qclass=IN>
+<DNS RR: 'www.mi.com.' rtype=CNAME rclass=IN ttl=119 rdata='www.mi.com.wscdns.com.'>
+
